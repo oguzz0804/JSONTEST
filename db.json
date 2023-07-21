@@ -1,0 +1,32 @@
+{
+  "Library": [
+    {
+      "id": 1,
+      "Book Name": "The Fellowship of the Ring",
+      "Book Author": "J. R. R. Tolkien",
+      "Year": "1954",
+      "Type": "Fantasy Novel"
+    },
+    {
+      "id": 2,
+      "Book Name": "Harry Potter and the Half-Blood Prince",
+      "Book Author": "J. K. Rowling",
+      "Year": "2009",
+      "Type": "Fantasy Novel"
+    },
+    {
+      "id": 3,
+      "Book Name": "The Sorrows of Young Werther",
+      "Book Author": "Johann Wolfgang von Goethe",
+      "Year": "1774",
+      "Type": "Epistolary Novel "
+    },
+    {
+      "id": 4,
+      "Book Name": "Green Mile",
+      "Book Author": "Stephen King",
+      "Year": "1996",
+      "Type": "Dark Fantasy"
+    }
+  ]
+}
